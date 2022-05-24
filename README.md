@@ -202,7 +202,7 @@ It has 2 keys, *logo* and *sections*.
 
 | key | Description |
 | ----------- | ----------- |
-| name | your name | 
+| name | HARTHIKA | 
 | roles | string array separated by `,`. mention your roles here | 
 
 #### Social Links
