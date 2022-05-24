@@ -195,7 +195,7 @@ It has 2 keys, *logo* and *sections*.
 
 ```
 {
-    "name": "Your Name",
+    "name": "HARTHIKA",
     "roles": ["a Developer", "a Freelancer"]
 }
 ```
@@ -221,7 +221,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "harthika.cs21@bitsathy.ac.in"
         }
     ]
 }
