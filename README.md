@@ -543,15 +543,15 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Mayank Agarwal](https://mayankagarwal.me)
+- [Mayank Agarwal]
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Mayank Agarwal** - [https://github.com/mayankagarwal09]
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue] in this repository.
 
 ## License 📄
 
